@@ -26,13 +26,13 @@ public class AmazonServiceTest
 	/*
      * Your AWS Access Key ID, as taken from the AWS Your Account page.
      */
-    private static final String AWS_ACCESS_KEY_ID = "AKIAIQU2FHPYCZDYXCIA";
+    private static final String AWS_ACCESS_KEY_ID = "";
 
     /*
      * Your AWS Secret Key corresponding to the above ID, as taken from the AWS
      * Your Account page.
      */
-    private static final String AWS_SECRET_KEY = "k9TUoikDHilxh11Ukrxl9PN1h4KxgQIpQ2HozC7w";
+    private static final String AWS_SECRET_KEY = "";
 
     /*
      * Use the end-point according to the region you are interested in.
